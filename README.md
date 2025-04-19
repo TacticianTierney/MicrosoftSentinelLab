@@ -11,7 +11,7 @@ It is important to note that the configuration setting of this lab are INSECURE 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Bash (Linux)</b>
+- <b>KQL</b>
 
 <h2>Environments Used </h2>
 
